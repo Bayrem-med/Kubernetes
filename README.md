@@ -1,3 +1,4 @@
+# Edit
 # Installation d'un Master :
 ### Mettre à jour la machine et configurer le fichier /etc/hosts: 
 $ apt update / yum update
